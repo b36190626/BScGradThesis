@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178807116444",
+    "project_id": "markit-cccc5",
+    "storage_bucket": "markit-cccc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178807116444:android:2d51852227fddd252d1359",
+        "android_client_info": {
+          "package_name": "com.gradthes.markit.markit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178807116444-v3hus8ch8kr72nfkbnah3iaag0ve08v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gradthes.markit.markit",
+            "certificate_hash": "5320160e345c56e9052ae317f75e91ffe9d3fc31"
+          }
+        },
+        {
+          "client_id": "178807116444-3jrhpe5ikdta5q78r8e44jdfho70afjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjkpLb33413alcNFs6A33ip3DDXoxTEAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178807116444-3jrhpe5ikdta5q78r8e44jdfho70afjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
